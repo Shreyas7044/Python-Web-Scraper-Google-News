@@ -31,7 +31,7 @@ python main.py
 Make sure Python and BeautifulSoup are installed.
 
 ## 📷 Application Screenshot
-![Application Screenshot](screenshot.png)
+![Application Screenshot](Python-web-scraper-google-news/screenshot.png)
 
 ## 🛠 Requirements
 - Python 3.x
